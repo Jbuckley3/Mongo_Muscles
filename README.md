@@ -28,6 +28,9 @@ MongoMuscles is a full-stack fitness application designed to guide your workout 
 ![alt text](public/wireframe2.png)
 
 
+![alt text](public/wireframe3.png)
+
+
 ## ERD
 
 ![alt text](public/ERD.png)
